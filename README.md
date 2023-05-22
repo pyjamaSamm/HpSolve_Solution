@@ -25,8 +25,8 @@ HP needs a one stop knowledge store, which can store reviews, suggestions, compl
 
 ### Screenshot
 
-![Sample Input](https://github.com/pyjamaSamm/HpSolve_Solution/assets/74822950/5e1b3b13-b713-4def-971e-b3223587e164)
-![Sample Output](https://github.com/pyjamaSamm/HpSolve_Solution/assets/74822950/30068144-5041-4214-bfea-1e00e4309967)
+![Sample Input](https://github.com/pyjamaSamm/HpSolve_Solution/assets/74822950/03f6d09f-b4b6-4ce5-a31c-1cf37fc6ea5a)
+![Sample Output](https://github.com/pyjamaSamm/HpSolve_Solution/assets/74822950/fd39cb2a-4c41-4d54-a946-d8208772e6ff)
 
 
 ### Links
