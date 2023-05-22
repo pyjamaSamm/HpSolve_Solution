@@ -66,7 +66,7 @@ In this project, I've learned about APIs and how they are used in data collectio
 
 1. Create a Twitter developer's account and get the consumer key, consumer secret key, access token and access secret token.
 2. Replace the respective values in the code.
-3. Step 1 and 2 can be omitted. The program can be executed with dummy data which is already available in the code.
+3. Step 1 and 2 can be omitted for the purpose of demonstration. The program can be executed with dummy data which is already available in the code.
 4. Copy the entire code in any IDE.
 5. Install the necessary libraries.
 6. Create a directory called 'templates' and add form.html. This directory is on the same level as the python program.
