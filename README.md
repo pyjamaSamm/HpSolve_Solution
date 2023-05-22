@@ -61,6 +61,7 @@ In this project, I've learned about APIs and how they are used in data collectio
 
 - [Hubspot blog](https://blog.hubspot.com/service/social-media-customer-feedback)
 - [Google](https://support.google.com/knowledgepanel/answer/9787176?hl=en)
+- [Twitter Developer Platform](https://developer.twitter.com/en)
 
 ## Implementation Steps
 
