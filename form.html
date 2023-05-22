@@ -1,0 +1,28 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport"
+          content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>HP Product Query</title>
+    <style>
+    .container{
+        margin-left: 100px;
+        margin-top: 20vh;
+    }
+    .queryInput {
+        width: 200px;
+    }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h2>Search for <span style="color:blue;">HP</span> posts</h2>
+        <form action="/query" method="POST">
+            <input type="text" name="query" placeholder="Enter your query" class="queryInput">
+            <input type="submit" value="Search">
+        </form>
+    </div>
+</body>
+</html>
