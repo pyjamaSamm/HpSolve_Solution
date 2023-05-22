@@ -55,7 +55,7 @@ My proposed solution involves:
 
 ### What I learned
 
-In this project, I've learned about APIs and how they are used in data collection. I've gained a hands-on practice on implementing natural language processing and have analysed data. I got to know more about sentiment analysis and how it plays a crucial role in product development and improvement. I also got to know and create a knowledge graph which enchances response for different queries. I also got to know about various libraries and packages.
+In this project, I have gained valuable insights into the practical implementation of APIs for data collection. I have acquired hands-on experience in utilizing natural language processing techniques to analyze textual data. Specifically, I have explored sentiment analysis and its significance in product development and improvement. Additionally, I have developed a knowledge graph that enhances the response capabilities for diverse queries. Throughout the project, I have also familiarized myself with various libraries and packages relevant to these tasks, expanding my toolkit for future projects.
 
 ### Useful resources
 
