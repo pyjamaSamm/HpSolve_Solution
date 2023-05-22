@@ -64,6 +64,15 @@ In this project, I've learned about APIs and how they are used in data collectio
 
 ## Implementation Steps
 
+1. Create a Twitter developer's account and get the consumer key, consumer secret key, access token and access secret token.
+2. Replace the respective values in the code.
+3. Step 1 and 2 can be omitted. The program can be executed with dummy data which is already available in the code.
+4. Copy the entire code in any IDE.
+5. Install the necessary libraries.
+6. Create a directory called 'templates' and add form.html. This directory is on the same level as the python program.
+7. Run the python program. A development server gets launched.
+8. Enter any query like "List all posts talking about wifi issues in printer model X or brand Y". The respective response will be displayed.
+
 ## Author
 - LinkedIn - [Gulafsha Ahmed](https://www.linkedin.com/in/gulafshaahmed)
 - Email - gulafsha1024ahmed@gmail.com
